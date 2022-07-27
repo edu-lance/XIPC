@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="XPIC.app" target="11" />
+      <module name="XPIC.clientsample" target="11" />
+      <module name="XPIC.servicesample" target="11" />
+      <module name="XPIC.xipc" target="11" />
+      <module name="XPIC.xipcsample" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
